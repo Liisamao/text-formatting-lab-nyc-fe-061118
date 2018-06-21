@@ -1,0 +1,24 @@
+h1{
+  color:#00bfe7;
+  text-align: center;
+  font-family:fantasy;
+  border-top:dotted;
+  border-bottom:dotted;
+  border-left:solid;
+  border-right:solid;
+}
+h2{
+  color:#009fc1;
+  text-align:center;
+  font-family:fantasy;
+}
+
+#emphasis{
+  color:red
+}
+
+#paragraph{
+ color:#3e8c9c;
+ text-align:center;
+ font:15px/20px san-serif;
+}
